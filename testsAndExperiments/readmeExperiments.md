@@ -1,0 +1,1 @@
+This folder contains a few experiments we did during our project. This fills are just there to illustratre our evolution and not to replace the final version of our project : CBIR.py and descriptorsGenerator.py.
