@@ -1,4 +1,4 @@
-### Guide to Using the CBIR System
+# Guide to Using the CBIR System
 
 To use the CBIR system for finding similar car's images to your car photo, follow these simplified steps:
 
